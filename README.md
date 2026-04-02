@@ -2,7 +2,7 @@
 
 A static portfolio website template for Montgomery College TECH 295 students to showcase their tabletop and mixed media game design projects.
 
-**Live Demo**: [View on GitHub Pages](#https://hcarbajales.github.io/mc-game-portfolio-example/) *(update with your GitHub Pages URL after deployment)*
+**Live Demo**: [View on GitHub Pages](https://hcarbajales.github.io/mc-game-portfolio-example/) *(update with your GitHub Pages URL after deployment)*
 
 ## What This Is
 
